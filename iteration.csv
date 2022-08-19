@@ -1,0 +1,49 @@
+steepest edge rule for Initial: min(Vk) 
+V1=5,
+V2=1,
+
+Primal Dictionary Matrix1:
+,,x1,x5,
+,15,4,-3,
+x3,6,-1,-1,
+x4,8,-2,-1,
+x2,5,0,-1,
+Objective value = 15
+prima variables:,,x1 = 0,x2 = 5,
+primal slack variables :,,x3 = 6,x4 = 8,x5 = 0,
+
+Dual Dictionary Matrix1:
+,,y1,y2,y5,
+,-15,-6,-8,-5,
+y4,-4,1,2,0,
+y3,3,1,1,1,
+Objective value = 15
+dual variables:,,y1 = 0,y2 = 0,y3 = 3,
+dual slack variables :,,y4 = -4,y5 = 0,
+
+steepest edge rule for Iteration1: min(Vk) 
+V1=5,
+steepest edge rule for Iteration1: min(Vk) 
+V5=306783067830678,
+
+Primal Dictionary Matrix2:
+,,x4,x5,
+,31,-2,-5,
+x3,2,0.5,-0.5,
+x1,4,-0.5,-0.5,
+x2,5,0,-1,
+Objective value = 31
+prima variables:,,x1 = 4,x2 = 5,
+primal slack variables :,,x3 = 2,x4 = 0,x5 = 0,
+
+Dual Dictionary Matrix2:
+,,y1,y4,y5,
+,-31,-2,-4,-5,
+y2,2,-0.5,0.5,0,
+y3,5,0.5,0.5,1,
+Objective value = 31
+dual variables:,,y1 = 0,y2 = 2,y3 = 5,
+dual slack variables :,,y4 = 0,y5 = 0,
+
+
+Iteration 2 is Optimal

@@ -1,0 +1,37 @@
+c:\users\kenny\documents\visual studio 2010\Projects\HW6_309704035\HW6_309704035\bin\Debug\HW6_309704035.exe
+c:\users\kenny\documents\visual studio 2010\Projects\HW6_309704035\HW6_309704035\bin\Debug\HW6_309704035.pdb
+c:\users\kenny\documents\visual studio 2010\Projects\HW6_309704035\HW6_309704035\obj\x86\Debug\HW6_309704035.exe
+c:\users\kenny\documents\visual studio 2010\Projects\HW6_309704035\HW6_309704035\obj\x86\Debug\HW6_309704035.pdb
+C:\Users\kenny\Documents\Visual Studio 2010\Projects\HW6_309704035\HW6_309704035\obj\x86\Debug\HW6_309704035.csprojResolveAssemblyReference.cache
+D:\share\HW6_309704035\HW6_309704035\obj\x86\Debug\HW6_309704035.exe
+D:\share\HW6_309704035\HW6_309704035\obj\x86\Debug\HW6_309704035.pdb
+D:\share\HW6_309704035\HW6_309704035\bin\Debug\HW6_309704035.exe
+D:\share\HW6_309704035\HW6_309704035\bin\Debug\HW6_309704035.pdb
+D:\share\HW6_309704035\HW6_309704035\obj\x86\Debug\HW6_309704035.csprojResolveAssemblyReference.cache
+C:\Users\kenny\Desktop\線性規劃\HW6_309704035\HW6_309704035\obj\x86\Debug\HW6_309704035.exe
+C:\Users\kenny\Desktop\線性規劃\HW6_309704035\HW6_309704035\obj\x86\Debug\HW6_309704035.pdb
+C:\Users\kenny\Desktop\線性規劃\HW6_309704035\HW6_309704035\bin\Debug\HW6_309704035.exe
+C:\Users\kenny\Desktop\線性規劃\HW6_309704035\HW6_309704035\bin\Debug\HW6_309704035.pdb
+C:\Users\kenny\Desktop\線性規劃\HW6_309704035\HW6_309704035\obj\x86\Debug\HW6_309704035.csprojResolveAssemblyReference.cache
+D:\share\HW6_[309704035]\HW6_309704035\obj\x86\Debug\HW6_309704035.exe
+D:\share\HW6_[309704035]\HW6_309704035\obj\x86\Debug\HW6_309704035.pdb
+D:\share\HW6_[309704035]\HW6_309704035\bin\Debug\HW6_309704035.exe
+D:\share\HW6_[309704035]\HW6_309704035\bin\Debug\HW6_309704035.pdb
+D:\share\HW6_[309704035]\HW6_309704035\obj\x86\Debug\HW6_309704035.csprojResolveAssemblyReference.cache
+C:\Users\kenny\Desktop\線性規劃\HW6_[309704035]\HW6_309704035\obj\x86\Debug\HW6_309704035.exe
+C:\Users\kenny\Desktop\線性規劃\HW6_[309704035]\HW6_309704035\obj\x86\Debug\HW6_309704035.pdb
+C:\Users\kenny\Desktop\線性規劃\HW6_[309704035]\HW6_309704035\bin\Debug\HW6_309704035.exe
+C:\Users\kenny\Desktop\線性規劃\HW6_[309704035]\HW6_309704035\bin\Debug\HW6_309704035.pdb
+C:\Users\kenny\Desktop\線性規劃\HW6_[309704035]\HW6_309704035\obj\x86\Debug\HW6_309704035.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\線性規劃\HW6_[309704035]\HW6_309704035\obj\x86\Debug\HW6_309704035.exe
+C:\Users\user\OneDrive\線性規劃\HW6_[309704035]\HW6_309704035\obj\x86\Debug\HW6_309704035.pdb
+C:\Users\kenny\OneDrive\線性規劃\HW6_[309704035]\HW6_309704035\obj\x86\Debug\HW6_309704035.exe
+C:\Users\kenny\OneDrive\線性規劃\HW6_[309704035]\HW6_309704035\obj\x86\Debug\HW6_309704035.pdb
+C:\Users\kenny\OneDrive\線性規劃\HW6_[309704035]\HW6_309704035\bin\Debug\HW6_309704035.exe
+C:\Users\kenny\OneDrive\線性規劃\HW6_[309704035]\HW6_309704035\bin\Debug\HW6_309704035.pdb
+C:\Users\kenny\OneDrive\線性規劃\HW6_[309704035]\HW6_309704035\obj\x86\Debug\HW6_309704035.csprojResolveAssemblyReference.cache
+C:\Users\kenny\Desktop\git-repos\Simple Pivot Tool for Linear Programming\HW6_309704035\obj\x86\Debug\HW6_309704035.exe
+C:\Users\kenny\Desktop\git-repos\Simple Pivot Tool for Linear Programming\HW6_309704035\obj\x86\Debug\HW6_309704035.pdb
+C:\Users\kenny\Desktop\git-repos\Simple Pivot Tool for Linear Programming\HW6_309704035\bin\Debug\HW6_309704035.exe
+C:\Users\kenny\Desktop\git-repos\Simple Pivot Tool for Linear Programming\HW6_309704035\bin\Debug\HW6_309704035.pdb
+C:\Users\kenny\Desktop\git-repos\Simple Pivot Tool for Linear Programming\HW6_309704035\obj\x86\Debug\HW6_309704035.csprojResolveAssemblyReference.cache
